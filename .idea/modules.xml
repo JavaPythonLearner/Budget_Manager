@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Budget_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Budget_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Budget Manager/task/Budget_Manager.Budget_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Laptop factory/Budget_Manager.Topics-Abstract_factory-Laptop_factory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Abstract factory/Theory/Budget_Manager.Topics-Abstract_factory-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Budget_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
